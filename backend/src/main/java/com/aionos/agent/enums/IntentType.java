@@ -1,0 +1,19 @@
+package com.aionos.agent.enums;
+
+public enum IntentType {
+    CANCELLATION,
+    DELAY,
+    REFUND,
+    REBOOKING,
+    HOTEL,
+    MEAL_VOUCHER,
+    LOUNGE_ACCESS,
+    COMPENSATION,
+    UPGRADE,
+    FARE_DIFFERENCE,
+    COMPLAINT,
+    LEGAL_ESCALATION,
+    BOOKING_STATUS,
+    FLIGHT_STATUS,
+    GENERAL_INQUIRY
+}
